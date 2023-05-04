@@ -1,6 +1,6 @@
 // Arrays to keep track of each task's state
 // Create a new task by adding to the arrays
-// A new task will be created as incomplete
+// A new task will be created as incomplet
 function newTask(title, description) {
   const task = {
     title: title,
